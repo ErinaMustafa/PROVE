@@ -1,0 +1,143 @@
+<!--<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <title>Site title</title>
+  <meta name="author" content="Author 1" />
+  <meta name="desc" content="Uni. Prishtina" />
+
+  <style>
+
+  </style>
+
+  <link/>
+
+  <script>
+
+  </script>
+
+
+</head>
+<body>
+
+<p>
+  <b>Lorem Ipsum is simply dummy text of the printing</b> and
+  typesetting industry. Lorem Ipsum has been the industry's
+  standard dummy text ever since the     1500<sub>s</sub>, when an unknown printer
+  <del>took a galley of type and scrambled it</del> to make a type specimen book.
+  It has survived not only five centuries, but also the leap into electronic
+  typesetting, <i>remaining essentially unchanged</i>
+</p>
+
+<a href="https://fiek.uni-pr.edu/">
+  <img src="https://fiek.uni-pr.edu/images/f_1.jpg" />
+</a>
+
+<img src="https://fiek.uni-pr.edu/images/f_1.jpg" />
+
+<pre id="text">
+  Lorem Ipsum is simply dummy text of the printing and
+  typesetting industry. Lorem Ipsum has been the industry's
+  standard dummy text ever since the      1500s, when an unknown printer
+  took a galley of type and scrambled it to make a type specimen book.
+  It has survived not only five centuries, but also the leap into electronic
+  typesetting, remaining essentially unchanged
+</pre>
+
+<address>
+  Rr. Agim Ramadani<br>
+  Prishtine
+</address>
+
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="2">Column1</th>
+      <th>Column3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1</td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+  <tfoot>
+
+  </tfoot>
+</table>
+
+<ol>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+</ol>
+
+<ul>
+  <li>List Item 1</li>
+  <li>List Item 2</li>
+  <li>List Item 3</li>
+</ul>
+
+<table border="1">
+  <thead>
+  <tr>
+    <th>Departamenti</th>
+    <th>Lenda</th>
+    <th>Profesori</th>
+  </tr>
+
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">TIK</td>
+      <td>Telekomunikacion</td>
+      <td>Vjosa Shatri</td>
+    </tr>
+    <tr>
+      <td>Sinjale dhe sisteme</td>
+      <td>Vjosa Shatri</td>
+    </tr>
+    <tr>
+      <td rowspan="3">IKS</td>
+      <td>Ueb2</td>
+      <td>Dhurate Hyseni</td>
+    </tr>
+    <tr>
+      <td>Ueb2</td>
+      <td>Dhurate Hyseni</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Orari i ushtrimeve ne lenden Programim ne Ueb 1:</p>
+<ul>
+  <li><b>Grupi1</b> E <u>marte</u>, ora <u>8:00</u></li>
+  <li><b>Grupi2</b> E <u>marte</u>, ora <u>9:00</u></li>
+  <li><b>Grupi3</b> E <u>marte</u>, ora <u>10:00</u></li>
+  <li><b>Grupi4</b> E <u>marte</u>, ora <u>11:00</u></li>
+</ul>
+
+<ol type="i" start="10" reversed>
+  <li><b>Grupi1</b> E <u>marte</u>, ora <u>8:00</u></li>
+  <li>E marte, ora 9:30</li>
+  <li>E marte, ora 11:00</li>
+  <li>E marte, ora 12:30</li>
+</ol>
+
+</body>
+</html>
+
