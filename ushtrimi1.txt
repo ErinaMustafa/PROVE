@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 
-  <title>Site title</title>
+  <title>ELA MA E MIRA <3 </title>
   <meta name="author" content="Author 1" />
   <meta name="desc" content="Uni. Prishtina" />
 
@@ -20,6 +20,7 @@
 
 </head>
 <body>
+<p>mdoket u ndreq</p>
 
 <p>
   <b>Lorem Ipsum is simply dummy text of the printing</b> and
